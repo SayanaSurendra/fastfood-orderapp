@@ -6,10 +6,10 @@ import { useState } from "react";
 function App() {
   const items = [
     {
-      title: "Burger",
-      description: "A deleicious burger with all the fixings.",
+      title: "Fries",
+      description: "Crispy golden fries.",
       image: "https://placehold.co/150",
-      price: 79,
+      price: 39,
     },
 
     {
